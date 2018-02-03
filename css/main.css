@@ -110,11 +110,12 @@ header nav a {
 	list-style-type: none;
 }
 
-#specials a {
+#specials li {
 	color: #77a466;
 	text-decoration: none;
 	text-align: left;
 	line-height: 24px;
+	font-weight: bold;
 }
 
 #reviews {
